@@ -11,6 +11,10 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 
 
 <h2>ERD</h2>
+[Uploading DMJK PA…]()
+![gambar](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/84c8fc1f-c034-4a1b-a241-01b12f5122d8)
+
+
 ![Logical](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/d8f6bfef-7140-4498-93a1-a79bf5184f59)
 ![image](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/2e8cc58a-c40d-4cd4-ab11-14d3c1246059)
 
