@@ -9,6 +9,16 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 
 <h2>Flowchart</h2>
 
+![flowchart1 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/160008f8-b2f1-48d8-bc4c-7953a751f352)
+<br>
+![flowchart2 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/9fb6aed8-090d-48d0-b0f2-ae6457c41652)
+<br>
+![flowchart3 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/ab0d4350-f900-40e9-b9fb-110fd68aaef1)
+<br>
+![flowchart4 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/d39c00fb-06b4-4388-97dd-9d595902e933)
+
+
+
 
 <h2>ERD</h2>
 
