@@ -69,11 +69,23 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <br>
 <img width="730" alt="Screenshot 2023-11-04 011113" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/a7b43f64-609f-4425-a04f-ece788132a8d">
 <br>
+<h2> Penerapan Setter dan Getter</h2>
+<br>
 <img width="722" alt="Screenshot 2023-11-04 011125" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/5151e3b5-5707-44ff-982d-286e197fbac9">
 <br>
 <img width="747" alt="Screenshot 2023-11-04 011151" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f8579b1b-8bee-41b1-aa6a-a3942e16c143">
 <br>
-<h2>Penerapan Abstract
+Codingan di atas adalah definisi metode get dan set untuk properti-properti dalam kelas `Mata_Kuliah`. Metode get digunakan untuk mengambil nilai dari properti, sedangkan metode set digunakan untuk mengatur nilai properti tersebut. Di sini, saya akan menjelaskan codingan tersebut dengan bahasa yang lebih sederhana:
+
+a. getKode_MK()` adalah metode yang digunakan untuk mendapatkan nilai properti `Kode_MK`. Ini berarti Anda dapat menggunakannya untuk mengambil nilai Kode_MK dari objek `Mata_Kuliah`.
+
+b. setKode_MK(String Kode_MK)` adalah metode yang digunakan untuk mengatur nilai properti `Kode_MK`. Ini berarti Anda dapat menggunakan metode ini untuk mengubah atau mengatur nilai Kode_MK pada objek `Mata_Kuliah`.
+
+c. Sama seperti poin 1 dan 2 di atas, metode `getNama_MK()`, `setNama_MK(String Nama_MK)`, `getSKS()`, `setSKS(String SKS)`, `getSemester()`, `setSemester(String Semester)`, `getPraktikum()`, `setPraktikum(String Praktikum)`, `getDosen_NIP()`, dan `setDosen_NIP(String Dosen_NIP)` adalah metode yang serupa untuk mendapatkan dan mengatur nilai properti Nama_MK, SKS, Semester, Praktikum, dan Dosen_NIP pada objek `Mata_Kuliah`.
+
+Dengan menggunakan metode-metode get dan set ini, Anda dapat dengan mudah mengakses dan memanipulasi nilai-nilai properti pada objek `Mata_Kuliah` tanpa harus mengakses properti tersebut secara langsung. Ini adalah salah satu konsep dasar dari enkapsulasi dalam pemrograman berorientasi objek, yang membantu dalam menjaga data dan operasi terkait dengan data menjadi lebih terstruktur dan aman.
+<br>
+<h2>Penerapan Abstract</h2>
 <br>
 <img width="739" alt="Screenshot 2023-11-04 011205" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/25a425cb-2c34-423b-96ca-102400d0e144">
 
