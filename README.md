@@ -4,29 +4,32 @@
 Penyusunan Kartu Rencana Studi (KRS)
 
 <h2>Deskripsi Project</h2>
-Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sistem ini dibuat dan digunakan untuk mahasiswa Universitas Mulawarman untuk menyusun KRS. Mahasiswa dapat memilih mata kuliah apa saja yang ingin mereka ambil dalam satu semester. 
+Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sistem ini dibuat dan digunakan untuk mahasiswa Universitas Mulawarman untuk menyusun KRS. Mahasiswa dapat memilih mata kuliah apa saja yang ingin mereka ambil dalam satu semester. Program ini dibuat menggunakan bahasa pemrograman Java. Dengan adanya project ini, mampu memberikan kemudahan kepada mahasiswa, dosen, maupun admin atau staff akademik terkait penyusunan Kartu Rencana Studi (KRS).
 
 
 <h2>Flowchart</h2>
 
 
 <h2>ERD</h2>
+
 ![Logical](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/d8f6bfef-7140-4498-93a1-a79bf5184f59)
 
 
-
-
 <h2>Hirarki Kelas</h2>
-![hirarki 2 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/5e138cc4-6997-49bf-8f92-44f109981032)
-<br>
+
 ![hirarki 1 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/21bc964e-27f5-4a6a-83ef-f47e9d4b739c)
+<br>
 <br>
 ![hirarki 3 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/e11cea2b-847b-4ec6-8642-191b81bd419d)
 <br>
+<br>
 ![hirarki 4 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/811787e7-d194-4269-afa0-280b7f9e34b7)
+<br>
 <br>
 ![hirarki 5 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/6002102c-94e4-4c5c-895b-29925beee3ab)
 <br>
+<br>
+![hirarki 2 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/5e138cc4-6997-49bf-8f92-44f109981032)
 <br>
 <br>
 <h2>Screenshot Kodingan Beserta Penjelasan</h2>
