@@ -73,6 +73,7 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <br>
 <img width="747" alt="Screenshot 2023-11-04 011151" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f8579b1b-8bee-41b1-aa6a-a3942e16c143">
 <br>
+<h2>Penerapan Abstract
 <img width="739" alt="Screenshot 2023-11-04 011205" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/25a425cb-2c34-423b-96ca-102400d0e144">
 
 kami akan menjelaskan beberapa point yang kami pahami, seperti abstract class mata_kuliah_wajib extends Mata_KuliahIni adalah deklarasi kelas mata_kuliah_wajib yang dijadikan kelas abstrak dan merupakan turunan dari kelas Mata_Kuliah. Ini berarti mata_kuliah_wajib mewarisi semua properti dan metode dari kelas Mata_Kuliah.
