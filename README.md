@@ -132,6 +132,7 @@ Kelas abstrak digunakan sebagai kerangka dasar untuk turunan yang lebih spesifik
 <br>
 <br>
 <h2> Penerapan Final Best practice</h2>
+<br>
 <img width="441" alt="Screenshot 2023-11-04 042523" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/bbb9403f-3ece-4dee-95dc-ee722a001d00">
 Diatas adalah salah satu penerapan best practice 
 <br>
