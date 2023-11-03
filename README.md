@@ -8,6 +8,7 @@
 <h2>☘️ Nama Project</h2>
 Penyusunan Kartu Rencana Studi (KRS)
 
+
 <h2>☘️ Deskripsi Project</h2>
 Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sistem ini dibuat dan digunakan untuk mahasiswa Universitas Mulawarman untuk menyusun KRS. Mahasiswa dapat memilih mata kuliah apa saja yang ingin mereka ambil dalam satu semester. Program ini dibuat menggunakan bahasa pemrograman Java. Project ini bertujuan untuk meningkatkan efisiensi dan akurasi dalam proses penyusunan KRS, mengurangi beban administratif, serta memberikan mahasiswa dan dosen akses mudah ke informasi yang mereka butuhkan.
 
@@ -15,7 +16,7 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <h2>☘️ Flowchart</h2>
 
 ![flowchart1 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/160008f8-b2f1-48d8-bc4c-7953a751f352)
-<br>
+<br><br>
 ![flowchart2 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/9fb6aed8-090d-48d0-b0f2-ae6457c41652)
 <br>
 ![flowchart3 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/ab0d4350-f900-40e9-b9fb-110fd68aaef1)
