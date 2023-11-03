@@ -56,7 +56,7 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <img width="214" alt="Screenshot 2023-11-04 015826" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/fe2f93db-33d3-42ec-a8dc-4d021050ffc8">
 <br>
 Seperti gambar diatas memiliki beberapa kelas yang akan digunakan
-<h2>Package/h2>
+<h2>Package</h2>
 <br>
 <img width="214" alt="Screenshot 2023-11-04 015826" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f33cf6bf-dce6-4c93-9766-12c78325c099">
 <img width="197" alt="Screenshot 2023-11-04 015846" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/16fb1870-046f-4226-b7a0-4381846a259a">
