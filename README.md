@@ -55,13 +55,19 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <br>
 <img width="214" alt="Screenshot 2023-11-04 015826" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/fe2f93db-33d3-42ec-a8dc-4d021050ffc8">
 <br>
-Seperti gambar diatas memiliki beberapa kelas yang akan digunakan
+Seperti gambar diatas memiliki beberapa kelas yang akan digunakan.
+
+Sebuah "class" dalam pemrograman adalah sebuah blueprint atau definisi untuk menciptakan objek. Class berisi atribut (variabel) dan metode (fungsi) yang mendefinisikan sifat dan perilaku dari objek yang akan dibuat dari class tersebut. Class digunakan sebagai template untuk menciptakan objek-objek dengan karakteristik yang serupa.
+class membantu dalam mengorganisasi kode dan memungkinkan pembuatan objek-objek dengan karakteristik yang sama. Class juga mendukung konsep-konsep seperti enkapsulasi, pewarisan, dan polimorfisme, yang merupakan dasar dari pemrograman berorientasi objek.
+<br>
+
 <h2>Package</h2>
 <br>
 <img width="214" alt="Screenshot 2023-11-04 015826" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f33cf6bf-dce6-4c93-9766-12c78325c099">
 <img width="197" alt="Screenshot 2023-11-04 015846" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/16fb1870-046f-4226-b7a0-4381846a259a">
 <br>
-Pada Gambar diatas adalah beberapa package yang digunakan yaitu model, controller, dan View ini adalah penerapan MCV yang digunakan memudahakan program dalam mengelompokkan project
+Pada Gambar diatas adalah beberapa package yang digunakan yaitu model, controller, dan View ini adalah penerapan MCV yang digunakan memudahakan program dalam mengelompokkan project.
+Package dalam pemrograman adalah cara untuk mengorganisasi dan mengelompokkan class-class yang serupa atau terkait dalam satu tempat atau direktori. Ini membantu dalam mencegah konflik nama, mempermudah pengelolaan kode, dan memungkinkan pemisahan dan pemeliharaan kode yang lebih baik dalam proyek pemrograman.
 <br>
 <h2>Penerapan Polymorphism -override:</h2>
 <br>
