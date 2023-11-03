@@ -4,7 +4,7 @@
 Penyusunan Kartu Rencana Studi (KRS)
 
 <h2>Deskripsi Project</h2>
-Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sistem ini dibuat dan digunakan untuk mahasiswa Universitas Mulawarman untuk menyusun KRS. Mahasiswa dapat memilih mata kuliah apa saja yang ingin mereka ambil dalam satu semester. Program ini dibuat menggunakan bahasa pemrograman Java. Dengan adanya project ini, mampu memberikan kemudahan kepada mahasiswa, dosen, maupun admin atau staff akademik terkait penyusunan Kartu Rencana Studi (KRS).
+Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sistem ini dibuat dan digunakan untuk mahasiswa Universitas Mulawarman untuk menyusun KRS. Mahasiswa dapat memilih mata kuliah apa saja yang ingin mereka ambil dalam satu semester. Program ini dibuat menggunakan bahasa pemrograman Java. Project ini bertujuan untuk meningkatkan efisiensi dan akurasi dalam proses penyusunan KRS, mengurangi beban administratif, serta memberikan mahasiswa dan dosen akses mudah ke informasi yang mereka butuhkan.
 
 
 <h2>Flowchart</h2>
