@@ -1,13 +1,18 @@
 <h1>PROYEK AKHIR PEMROGRAMAN BERORIENTASI OBJEK</h1>
 
-<h2>Nama Project</h2>
+<h3>✨ KELOMPOK 1 ✨</h3>
+<h4>2209116017 Mita Wahyu Astami</h4>
+<h4>2209116050 Bayu Purnama Aji</h4>
+<br>
+
+<h2>☘️ Nama Project</h2>
 Penyusunan Kartu Rencana Studi (KRS)
 
-<h2>Deskripsi Project</h2>
+<h2>☘️ Deskripsi Project</h2>
 Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sistem ini dibuat dan digunakan untuk mahasiswa Universitas Mulawarman untuk menyusun KRS. Mahasiswa dapat memilih mata kuliah apa saja yang ingin mereka ambil dalam satu semester. Program ini dibuat menggunakan bahasa pemrograman Java. Project ini bertujuan untuk meningkatkan efisiensi dan akurasi dalam proses penyusunan KRS, mengurangi beban administratif, serta memberikan mahasiswa dan dosen akses mudah ke informasi yang mereka butuhkan.
 
 
-<h2>Flowchart</h2>
+<h2>☘️ Flowchart</h2>
 
 ![flowchart1 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/160008f8-b2f1-48d8-bc4c-7953a751f352)
 <br>
@@ -20,12 +25,12 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 
 
 
-<h2>ERD</h2>
+<h2>☘️ ERD</h2>
 
 ![Logical](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/d8f6bfef-7140-4498-93a1-a79bf5184f59)
 
 
-<h2>Hirarki Kelas</h2>
+<h2>☘️ Hirarki Kelas</h2>
 
 ![hirarki 1 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/21bc964e-27f5-4a6a-83ef-f47e9d4b739c)
 <br>
@@ -42,12 +47,13 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 ![hirarki 2 drawio](https://github.com/PA-PBO-1/PA_PBO/assets/122213134/5e138cc4-6997-49bf-8f92-44f109981032)
 <br>
 <br>
-<h2>Screenshot Kodingan Beserta Penjelasan</h2>
+
+<h2>☘️ Screenshot Kodingan Beserta Penjelasan</h2>
 <br>
 <br>
 <br>
 
-<h2>Screenshoot Output</h2>
+<h2>☘️ Screenshoot Output</h2>
 <img width="608" alt="Screenshot 2023-11-03 184204" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/91d39929-462b-4ddc-9172-85830d216c92">
 <br>
 <br>
