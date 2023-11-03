@@ -56,12 +56,16 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <h2>Penerapan Polymorphism -override:</h2>
 <br>
 <img width="747" alt="Screenshot 2023-11-04 011151" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f8579b1b-8bee-41b1-aa6a-a3942e16c143">
+<br>
+Codingan di atas adalah implementasi ulang (override) dari beberapa metode getter dan setter yang ada di kelas yang diwarisi (superclass) oleh kelas saat ini. Implementasi ini memungkinkan kelas anak (subclass) untuk memiliki kontrol terhadap pengambilan dan pengaturan nilai properti yang diwarisi dari kelas induk (superclass).
 
+Singkatnya, setiap metode setter mengganti nilai properti dari superclass, dan setiap metode getter mengambil nilai properti dari superclass. Ini memungkinkan kelas anak (subclass) untuk memodifikasi atau memeriksa nilai properti yang diwarisi dari superclass sesuai dengan kebutuhannya.
 <br>
 <h2>Penerapan Inherintance</h2>
 
 <h2>Penerapan Method atau Bersifat Static</h2>
 <img width="692" alt="Screenshot 2023-11-04 014300" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f7075cef-c4f3-489b-b95d-a3695794d86f">
+<br>
 Codingan di atas adalah definisi sebuah metode statis bernama `deleteMata_Kuliah` dalam kelas `Mata_Kuliah`. Metode ini menerima satu parameter berupa kode mata kuliah yang ingin dihapus
 - Metode ini bersifat statis (`static`), sehingga dapat dipanggil tanpa harus membuat objek dari kelas `Mata_Kuliah`.
 - Metode `deleteMata_Kuliah` mengiterasi melalui daftar mata kuliah yang tersimpan (`arraymk`).
