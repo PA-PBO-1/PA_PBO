@@ -53,16 +53,28 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 
 <h2>Class Class</h2>
 <h2>Package/h2>
-<h2>Penerapan Encapsulation</h2>
 <h2>Penerapan Polymorphism -override:</h2>
-<h2>Penerapan Inherintance</h2>
-<h2>Penerapan Method atau Bersifat Static</h2>
-  
-<h2> Penerapan Setter dan Getter</h2>
-<br>
-<img width="722" alt="Screenshot 2023-11-04 011125" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/5151e3b5-5707-44ff-982d-286e197fbac9">
 <br>
 <img width="747" alt="Screenshot 2023-11-04 011151" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f8579b1b-8bee-41b1-aa6a-a3942e16c143">
+
+<br>
+<h2>Penerapan Inherintance</h2>
+
+<h2>Penerapan Method atau Bersifat Static</h2>
+<img width="692" alt="Screenshot 2023-11-04 014300" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f7075cef-c4f3-489b-b95d-a3695794d86f">
+Codingan di atas adalah definisi sebuah metode statis bernama `deleteMata_Kuliah` dalam kelas `Mata_Kuliah`. Metode ini menerima satu parameter berupa kode mata kuliah yang ingin dihapus
+- Metode ini bersifat statis (`static`), sehingga dapat dipanggil tanpa harus membuat objek dari kelas `Mata_Kuliah`.
+- Metode `deleteMata_Kuliah` mengiterasi melalui daftar mata kuliah yang tersimpan (`arraymk`).
+- Untuk setiap mata kuliah dalam daftar, metode memeriksa apakah kode mata kuliahnya sesuai dengan kode yang diberikan sebagai parameter.
+- Jika kode mata kuliah sesuai, maka mata kuliah tersebut dihapus dari daftar dan juga dihapus dari database.
+- Setelah mata kuliah dihapus, perulangan dihentikan menggunakan perintah `break`.
+<br>
+<br>
+<h2> Penerapan Setter dan Getter(encapsulation)</h2>
+<br>
+<img width="722" alt="Screenshot 2023-11-04 011125" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/5151e3b5-5707-44ff-982d-286e197fbac9">
+<img width="437" alt="Screenshot 2023-11-04 014142" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/8e74f4ae-4fe1-4647-8f44-fe17fb93e81f">
+<img width="454" alt="Screenshot 2023-11-04 014154" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/eedec2f3-06a4-4329-b200-c76b6ab43ff9">
 <br>
 Codingan di atas adalah definisi metode get dan set untuk properti-properti dalam kelas `Mata_Kuliah`. Metode get digunakan untuk mengambil nilai dari properti, sedangkan metode set digunakan untuk mengatur nilai properti tersebut. Di sini, saya akan menjelaskan codingan tersebut dengan bahasa yang lebih sederhana:
 
@@ -89,13 +101,6 @@ ArrayList<mata_kuliah_wajib> arraymkw = new ArrayList<>();: Ini adalah deklarasi
 Konstruktor mata_kuliah_wajib: Ini adalah konstruktor kelas mata_kuliah_wajib. Konstruktor ini menerima parameter yang sama dengan konstruktor kelas induk Mata_Kuliah (Kode_MK, Nama_MK, SKS, Semester, Praktikum, DosenNIP) dan memanggil konstruktor kelas induk menggunakan kata kunci super. Dengan cara ini, kelas mata_kuliah_wajib dapat mewarisi properti dari kelas Mata_Kuliah dan menginisialisasi objeknya sendiri.
 
 Kelas abstrak digunakan sebagai kerangka dasar untuk turunan yang lebih spesifik. Dalam hal ini, mata_kuliah_wajib adalah kelas abstrak yang memberikan kerangka dasar untuk mata kuliah wajib (seperti mata kuliah yang harus diambil oleh semua mahasiswa). Anda dapat membuat kelas konkret yang mewarisi mata_kuliah_wajib dan mengimplementasikan metodenya sesuai dengan kebutuhan Anda.
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
