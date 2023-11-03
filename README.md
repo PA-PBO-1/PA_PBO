@@ -11,6 +11,13 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 
 
 <h2>ERD</h2>
+![Logical](https://github.com/PA-PBO-1/PA_PBO/assets/72842139/d8f6bfef-7140-4498-93a1-a79bf5184f59)
+
 
 
 <h2>Hirarki Kelas</h2>
+
+<h2>Screenshot Kodingan Beserta Penjelasan</h2>
+
+
+<h2>Screenshoot Output</h2>
