@@ -75,6 +75,24 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <br>
 <img width="739" alt="Screenshot 2023-11-04 011205" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/25a425cb-2c34-423b-96ca-102400d0e144">
 
+kami akan menjelaskan beberapa point yang kami pahami, seperti abstract class mata_kuliah_wajib extends Mata_KuliahIni adalah deklarasi kelas mata_kuliah_wajib yang dijadikan kelas abstrak dan merupakan turunan dari kelas Mata_Kuliah. Ini berarti mata_kuliah_wajib mewarisi semua properti dan metode dari kelas Mata_Kuliah.
+
+private DataBases db = new DataBases();Ini adalah inisialisasi objek DataBases yang digunakan untuk mengakses basis data.
+
+private Connection connection dan private Statement st;: Ini adalah deklarasi variabel connection dan st yang mungkin akan digunakan untuk koneksi basis data dan pernyataan SQL. Namun, dalam kode yang diberikan, kedua variabel ini tidak digunakan.
+
+ArrayList<mata_kuliah_wajib> arraymkw = new ArrayList<>();: Ini adalah deklarasi ArrayList yang disebut arraymkw yang digunakan untuk menyimpan objek-objek mata_kuliah_wajib. Dalam kasus ini, Anda membuat ArrayList untuk kelas yang Anda definisikan.
+
+Konstruktor mata_kuliah_wajib: Ini adalah konstruktor kelas mata_kuliah_wajib. Konstruktor ini menerima parameter yang sama dengan konstruktor kelas induk Mata_Kuliah (Kode_MK, Nama_MK, SKS, Semester, Praktikum, DosenNIP) dan memanggil konstruktor kelas induk menggunakan kata kunci super. Dengan cara ini, kelas mata_kuliah_wajib dapat mewarisi properti dari kelas Mata_Kuliah dan menginisialisasi objeknya sendiri.
+
+Kelas abstrak digunakan sebagai kerangka dasar untuk turunan yang lebih spesifik. Dalam hal ini, mata_kuliah_wajib adalah kelas abstrak yang memberikan kerangka dasar untuk mata kuliah wajib (seperti mata kuliah yang harus diambil oleh semua mahasiswa). Anda dapat membuat kelas konkret yang mewarisi mata_kuliah_wajib dan mengimplementasikan metodenya sesuai dengan kebutuhan Anda.
+
+
+
+
+
+
+
 <br>
 <br>
 <br>
