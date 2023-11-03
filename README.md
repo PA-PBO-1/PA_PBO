@@ -131,6 +131,12 @@ Konstruktor mata_kuliah_wajib: Ini adalah konstruktor kelas mata_kuliah_wajib. K
 Kelas abstrak digunakan sebagai kerangka dasar untuk turunan yang lebih spesifik. Dalam hal ini, mata_kuliah_wajib adalah kelas abstrak yang memberikan kerangka dasar untuk mata kuliah wajib (seperti mata kuliah yang harus diambil oleh semua mahasiswa). Anda dapat membuat kelas konkret yang mewarisi mata_kuliah_wajib dan mengimplementasikan metodenya sesuai dengan kebutuhan Anda.
 <br>
 <br>
+<h2> Penerapan Final Best practice</h2>
+<img width="441" alt="Screenshot 2023-11-04 042523" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/bbb9403f-3ece-4dee-95dc-ee722a001d00">
+Diatas adalah salah satu penerapan best practice 
+<br>
+Secara singkat, kata kunci final digunakan untuk menandai elemen (variabel, method, atau class) dalam pemrograman yang tidak dapat diubah setelah didefinisikan. Hal ini membantu meningkatkan kejelasan kode, mencegah perubahan yang tidak diinginkan, dan memungkinkan pemeliharaan yang lebih mudah dalam pengembangan perangkat lunak.
+
 <br>
 <h2>☘️ Screenshoot Output</h2>
 <img width="608" alt="Screenshot 2023-11-03 184204" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/91d39929-462b-4ddc-9172-85830d216c92">
