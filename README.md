@@ -50,25 +50,14 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <br>
 
 <h2>☘️ Screenshot Kodingan Beserta Penjelasan</h2>
-<img width="196" alt="Screenshot 2023-11-04 010542" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/d7f68b59-88b3-48df-a48c-495aab067a2c">
-<br>
 
-<img width="205" alt="Screenshot 2023-11-04 010553" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f6a56fe7-ee6b-4e87-99e7-dbd8b0f9ee80">
-<br>
-<img width="742" alt="Screenshot 2023-11-04 010930" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/16442c30-8828-47cc-9720-6da1941d8cdb">
-
-<br>
-<img width="452" alt="Screenshot 2023-11-04 010945" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/4147713f-737a-4042-9c59-012c07a045b9">
-
-<br>
-<img width="691" alt="Screenshot 2023-11-04 011000" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/b188858f-67e4-4604-a158-6eb8f22f8b3a">
-<br>
-<img width="708" alt="Screenshot 2023-11-04 011017" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/10409218-95a3-4b38-921d-d579538e3e3f">
-<br>
-<img width="750" alt="Screenshot 2023-11-04 011045" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/c5f6b00d-94a7-4d46-8d32-7f0f3b5c27e6">
-<br>
-<img width="730" alt="Screenshot 2023-11-04 011113" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/a7b43f64-609f-4425-a04f-ece788132a8d">
-<br>
+<h2>Class Class</h2>
+<h2>Package/h2>
+<h2>Penerapan Encapsulation</h2>
+<h2>Penerapan Polymorphism -override:</h2>
+<h2>Penerapan Inherintance</h2>
+<h2>Penerapan Method atau Bersifat Static</h2>
+  
 <h2> Penerapan Setter dan Getter</h2>
 <br>
 <img width="722" alt="Screenshot 2023-11-04 011125" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/5151e3b5-5707-44ff-982d-286e197fbac9">
