@@ -61,7 +61,8 @@ Seperti gambar diatas memiliki beberapa kelas yang akan digunakan
 <img width="214" alt="Screenshot 2023-11-04 015826" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f33cf6bf-dce6-4c93-9766-12c78325c099">
 <img width="197" alt="Screenshot 2023-11-04 015846" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/16fb1870-046f-4226-b7a0-4381846a259a">
 <br>
-Pada Gambar diatas adalah beberapa package yang digunakan yaitu model, controller, dan View ini adalah penerapan MCV yang digunakan memudahakn program dalam mengelompokkan project
+Pada Gambar diatas adalah beberapa package yang digunakan yaitu model, controller, dan View ini adalah penerapan MCV yang digunakan memudahakan program dalam mengelompokkan project
+<br>
 <h2>Penerapan Polymorphism -override:</h2>
 <br>
 <img width="747" alt="Screenshot 2023-11-04 011151" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f8579b1b-8bee-41b1-aa6a-a3942e16c143">
