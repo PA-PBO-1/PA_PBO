@@ -52,7 +52,16 @@ Dalam project ini, kami membuat sistem Penyusunan Kartu Rencana Studi (KRS). Sis
 <h2>☘️ Screenshot Kodingan Beserta Penjelasan</h2>
 
 <h2>Class Class</h2>
+<br>
+<img width="214" alt="Screenshot 2023-11-04 015826" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/fe2f93db-33d3-42ec-a8dc-4d021050ffc8">
+<br>
+Seperti gambar diatas memiliki beberapa kelas yang akan digunakan
 <h2>Package/h2>
+<br>
+<img width="214" alt="Screenshot 2023-11-04 015826" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f33cf6bf-dce6-4c93-9766-12c78325c099">
+<img width="197" alt="Screenshot 2023-11-04 015846" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/16fb1870-046f-4226-b7a0-4381846a259a">
+<br>
+Pada Gambar diatas adalah beberapa package yang digunakan yaitu model, controller, dan View ini adalah penerapan MCV yang digunakan memudahakn program dalam mengelompokkan project
 <h2>Penerapan Polymorphism -override:</h2>
 <br>
 <img width="747" alt="Screenshot 2023-11-04 011151" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f8579b1b-8bee-41b1-aa6a-a3942e16c143">
@@ -62,9 +71,17 @@ Codingan di atas adalah implementasi ulang (override) dari beberapa metode gette
 Singkatnya, setiap metode setter mengganti nilai properti dari superclass, dan setiap metode getter mengambil nilai properti dari superclass. Ini memungkinkan kelas anak (subclass) untuk memodifikasi atau memeriksa nilai properti yang diwarisi dari superclass sesuai dengan kebutuhannya.
 <br>
 <h2>Penerapan Inherintance</h2>
-
+<br>
+<img width="681" alt="Screenshot 2023-11-04 015445" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/31ade996-72eb-4288-8c55-9d47ab1b36d2">
+<img width="700" alt="Screenshot 2023-11-04 015502" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/182c7316-4a8d-47f0-814a-407c37d319eb">
+<img width="725" alt="Screenshot 2023-11-04 015531" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/4cc16b8d-379e-4c94-bdba-10d9584db84f">
+<br>
+Diatas adalah kelas dalam penerapan INHERINTANCE yang menjadi supertype atau orang tuanya adalah mata kuliah, dan memiliki anak yang diturunkan ke mata kuliah wajib dan mata kuliah peminatan.
+<br>
+<br>
 <h2>Penerapan Method atau Bersifat Static</h2>
 <img width="692" alt="Screenshot 2023-11-04 014300" src="https://github.com/PA-PBO-1/PA_PBO/assets/122213134/f7075cef-c4f3-489b-b95d-a3695794d86f">
+<br>
 <br>
 Codingan di atas adalah definisi sebuah metode statis bernama `deleteMata_Kuliah` dalam kelas `Mata_Kuliah`. Metode ini menerima satu parameter berupa kode mata kuliah yang ingin dihapus
 - Metode ini bersifat statis (`static`), sehingga dapat dipanggil tanpa harus membuat objek dari kelas `Mata_Kuliah`.
